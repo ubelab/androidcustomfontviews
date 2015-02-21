@@ -1,2 +1,4 @@
-# androidcustomfontviews
-Using custom fonts in Android views
+#Android Custom Font Views
+
+Use Roboto font for your TextView, Button or EditText.
+
