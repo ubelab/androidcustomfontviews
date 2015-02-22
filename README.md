@@ -1,4 +1,8 @@
 #Android Custom Font Views
 
-Use Roboto font for your TextView, Button or EditText.
+For API 7+
+
+Use custom font in your TextView, Button or EditText.
+
+Use custom fonts in your material Toolbar.
 
