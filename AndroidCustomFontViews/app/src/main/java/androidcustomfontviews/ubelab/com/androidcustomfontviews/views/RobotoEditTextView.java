@@ -27,7 +27,6 @@ public class RobotoEditTextView extends EditText {
         } finally {
             a.recycle();
         }
-
     }
 
     public RobotoEditTextView(Context context, AttributeSet attrs) {
